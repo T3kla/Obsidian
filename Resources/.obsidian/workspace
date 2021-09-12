@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "71908dd7a958d9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b829be35b67f84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C#/High Perf. Design Patterns/_Index.md",
+            "mode": "source"
+          }
+        },
+        "group": "fa33b4b94c4bd08a"
+      },
+      {
+        "id": "a690daffe9d41897",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C#/High Perf. Design Patterns/_Index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fa33b4b94c4bd08a"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92cadb98febf9094",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca9368458d4a051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c195f3355c201ee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b44cb8476423f019",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326
+  },
+  "right": {
+    "id": "f8a2b5097d1f3071",
+    "type": "split",
+    "children": [
+      {
+        "id": "d202ab78ef4a3559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b5cdd75d979b23f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C#/High Perf. Design Patterns/_Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b3b829be35b67f84",
+  "lastOpenFiles": [
+    "C#/High Perf. Design Patterns/_Index.md",
+    "C#/High Perf. Design Patterns/Zero-Copy WIP.md",
+    "C#/High Perf. Design Patterns/Zero-Copy.md",
+    "C#/High Perf. Design Patterns/Array Pooling.md",
+    "C#/High Perf. Design Patterns/Frugal Object.md",
+    "Untitled.md",
+    "C#/High Perf. Design Patterns/Index.md",
+    "C#/High Perf. Design Patterns/Untitled.md",
+    "Jotunn/TODO.md",
+    "DDDPhone/TODO.md"
+  ]
+}
