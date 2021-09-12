@@ -1,14 +1,14 @@
-## Frugal Object
+# Frugal Object
 
-Instead of allocating an array of strings we allocate an object that can take the form of 0 elements (null), 1 element (string) or multiple elements (string[]). This has the benefit of better data locality because we have to follow less references when the object holds 0 or 1 elements.
+Instead of allocating a list of strings we allocate an object that can take the form of 0 elements (null), 1 element (string) or multiple elements (string[]). This has the benefit of better data locality because we have to follow less references when the object holds 0 or 1 elements.
 
 -   **Problem**. Efficient storage of very small collections that usually holds 0 or 1 values
 -   **Solution**. Discriminated union
 -   **Benefit**. (Sometimes) Smaller memory usage, better data locality, better JIT optimizations (bound checks)
--   **Compromise**. More complex API and some overhead for checks, casts and wrappers**
+-   **Compromise**. More complex API and some overhead for checks, casts and wrappers
 
 ```cs
-/// <summary> Represents 0, 1 or many strings. </summary>
+// Represents 0, 1 or many strings
 public struct FrugalObject : IList<string>
 {
 	private readonly object _values;
@@ -22,14 +22,16 @@ public struct FrugalObject : IList<string>
 		}
 		set { }
 	}
+	[ . . . ]
+}
+```
 
-[ . . . ]
-
-/// <summary> Represents 0, 1 or many strings. </summary>
+```cs
+// Represents 0, 1 or many things
 public struct CompactList<T> : IEnumerator<T>
 {
 	private T singleValue;
 	private List<T> multiValue;
-
-[ . . . ]
+	[ . . . ]
+}
 ```

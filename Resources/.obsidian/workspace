@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/High Perf. Design Patterns/_Index.md",
+            "file": "C#/Concepts/Reference vs Value.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/High Perf. Design Patterns/_Index.md",
+            "file": "C#/Concepts/Reference vs Value.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 298.5036334991455
   },
   "right": {
     "id": "f8a2b5097d1f3071",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/High Perf. Design Patterns/_Index.md",
+                "file": "C#/Concepts/Reference vs Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "b3b829be35b67f84",
   "lastOpenFiles": [
-    "C#/High Perf. Design Patterns/_Index.md",
+    "C#/Concepts/Reference vs Value.md",
+    "C#/Concepts/Heap vs Stack.md",
+    "C#/Concepts/Untitled.md",
+    "C#/Concepts/·Index.md",
+    "C#/High Perf. Design Patterns/·Index.md",
+    "C#/High Perf. Design Patterns/Stack-Based Data.md",
+    "C#/High Perf. Design Patterns/Struct of Arrays.md",
     "C#/High Perf. Design Patterns/Zero-Copy WIP.md",
-    "C#/High Perf. Design Patterns/Zero-Copy.md",
-    "C#/High Perf. Design Patterns/Array Pooling.md",
     "C#/High Perf. Design Patterns/Frugal Object.md",
-    "Untitled.md",
-    "C#/High Perf. Design Patterns/Index.md",
-    "C#/High Perf. Design Patterns/Untitled.md",
-    "Jotunn/TODO.md",
-    "DDDPhone/TODO.md"
+    "C#/High Perf. Design Patterns/Frugal Object 1.md"
   ]
 }

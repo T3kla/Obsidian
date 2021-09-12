@@ -7,6 +7,14 @@
   "spellcheckDictionary": [
     "ok",
     "pre",
-    "Kokosa"
-  ]
+    "Kokosa",
+    "structs",
+    "Struct",
+    "performant",
+    "struct",
+    "Linq",
+    "foreach",
+    "Async"
+  ],
+  "alwaysUpdateLinks": true
 }
