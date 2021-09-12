@@ -14,7 +14,10 @@
     "struct",
     "Linq",
     "foreach",
-    "Async"
+    "Async",
+    "readonly",
+    "bool"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useTab": false
 }

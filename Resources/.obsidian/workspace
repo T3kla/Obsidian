@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Concepts/Reference vs Value.md",
+            "file": "C++/Struct WIP.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Concepts/Reference vs Value.md",
+            "file": "C++/Struct WIP.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Concepts/Reference vs Value.md",
+                "file": "C++/Struct WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "b3b829be35b67f84",
   "lastOpenFiles": [
-    "C#/Concepts/Reference vs Value.md",
-    "C#/Concepts/Heap vs Stack.md",
-    "C#/Concepts/Untitled.md",
+    "C++/Untitled.md",
+    "Untitled.md",
     "C#/Concepts/·Index.md",
     "C#/High Perf. Design Patterns/·Index.md",
+    "C#/High Perf. Design Patterns/Array Pooling.md",
+    "C#/High Perf. Design Patterns/Frugal Object.md",
     "C#/High Perf. Design Patterns/Stack-Based Data.md",
     "C#/High Perf. Design Patterns/Struct of Arrays.md",
-    "C#/High Perf. Design Patterns/Zero-Copy WIP.md",
-    "C#/High Perf. Design Patterns/Frugal Object.md",
-    "C#/High Perf. Design Patterns/Frugal Object 1.md"
+    "C#/References.md",
+    "C#/Data Oriented Programming.md"
   ]
 }

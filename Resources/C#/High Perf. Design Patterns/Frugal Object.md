@@ -1,6 +1,6 @@
 # Frugal Object
 
-Instead of allocating a list of strings we allocate an object that can take the form of 0 elements (null), 1 element (string) or multiple elements (string[]). This has the benefit of better data locality because we have to follow less references when the object holds 0 or 1 elements.
+Instead of allocating a list of strings we allocate an object that can take the form of 0, 1  or multiple elements. This has the benefit of better data locality because we have to follow less references when the object holds 0 or 1 elements.
 
 -   **Problem**. Efficient storage of very small collections that usually holds 0 or 1 values
 -   **Solution**. Discriminated union
