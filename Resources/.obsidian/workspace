@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/Struct WIP.md",
+            "file": "C#/Keywords/Readonly.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/Struct WIP.md",
+            "file": "C#/Keywords/Readonly.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Struct WIP.md",
+                "file": "C#/Keywords/Readonly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "b3b829be35b67f84",
   "lastOpenFiles": [
+    "C#/Keywords/Untitled.md",
+    "C++/Struct WIP.md",
     "C++/Untitled.md",
     "Untitled.md",
     "C#/Concepts/·Index.md",
@@ -108,8 +110,6 @@
     "C#/High Perf. Design Patterns/Array Pooling.md",
     "C#/High Perf. Design Patterns/Frugal Object.md",
     "C#/High Perf. Design Patterns/Stack-Based Data.md",
-    "C#/High Perf. Design Patterns/Struct of Arrays.md",
-    "C#/References.md",
-    "C#/Data Oriented Programming.md"
+    "C#/High Perf. Design Patterns/Struct of Arrays.md"
   ]
 }
