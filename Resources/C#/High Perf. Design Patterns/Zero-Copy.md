@@ -1,6 +1,6 @@
 # Zero-Copy 
 
-`Span<T>`, ref passing, ref return and pipelines.
+`Span<T>`, ref passing, ref return and pipelines. See [[Span]]
 - **Problem**. Operations on “sub-data” and the need of representing and passing parts of this object
 - **Solution**. Allow the representation of slices of a bigger object
 - **Benefit**. No allocations

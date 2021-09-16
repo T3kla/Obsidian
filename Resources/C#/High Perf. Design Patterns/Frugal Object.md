@@ -8,7 +8,7 @@ Instead of allocating a list of strings we allocate an object that can take the 
 -   **Compromise**. More complex API and some overhead for checks, casts and wrappers
 
 ```cs
-// Represents 0, 1 or many strings
+// Example 0
 public struct FrugalObject : IList<string>
 {
 	private readonly object _values;
@@ -27,7 +27,7 @@ public struct FrugalObject : IList<string>
 ```
 
 ```cs
-// Represents 0, 1 or many things
+// Example 1
 public struct CompactList<T> : IEnumerator<T>
 {
 	private T singleValue;

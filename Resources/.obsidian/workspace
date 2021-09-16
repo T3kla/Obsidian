@@ -6,10 +6,11 @@
       {
         "id": "b3b829be35b67f84",
         "type": "leaf",
+        "dimension": 51.162790697674424,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Keywords/Readonly.md",
+            "file": "C#/High Perf. Design Patterns/Stack-Based Data.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "a690daffe9d41897",
         "type": "leaf",
+        "dimension": 48.837209302325576,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Keywords/Readonly.md",
+            "file": "C#/High Perf. Design Patterns/Stack-Based Data.md",
             "mode": "preview"
           }
         },
@@ -81,14 +83,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Keywords/Readonly.md",
+                "file": "C#/High Perf. Design Patterns/Stack-Based Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -99,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3b829be35b67f84",
+  "active": "a690daffe9d41897",
   "lastOpenFiles": [
-    "C#/Keywords/Untitled.md",
-    "C++/Struct WIP.md",
-    "C++/Untitled.md",
-    "Untitled.md",
-    "C#/Concepts/·Index.md",
-    "C#/High Perf. Design Patterns/·Index.md",
-    "C#/High Perf. Design Patterns/Array Pooling.md",
-    "C#/High Perf. Design Patterns/Frugal Object.md",
     "C#/High Perf. Design Patterns/Stack-Based Data.md",
-    "C#/High Perf. Design Patterns/Struct of Arrays.md"
+    "C#/High Perf. Design Patterns/Frugal Object.md",
+    "C#/High Perf. Design Patterns/Array Pooling.md",
+    "C#/Concepts/Reference Semantics.md",
+    "C#/Concepts/Heap vs Stack.md",
+    "C#/Concepts/Function as a Value.md",
+    "C#/Concepts/Unexpected Allocations.md",
+    "C#/Concepts/StringBuilder.md",
+    "C#/Concepts/Span.md",
+    "C#/Concepts/Reference vs Value.md"
   ]
 }

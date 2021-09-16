@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "foldHeading": true,
+  "foldHeading": false,
   "foldIndent": true,
   "readableLineLength": false,
   "spellcheckDictionary": [
@@ -16,8 +16,14 @@
     "foreach",
     "Async",
     "readonly",
-    "bool"
+    "bool",
+    "extern",
+    "Func",
+    "Inlining",
+    "codebase",
+    "inlined"
   ],
   "alwaysUpdateLinks": true,
-  "useTab": false
+  "useTab": false,
+  "attachmentFolderPath": "C#/Attatchments"
 }
