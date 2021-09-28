@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/High Perf. Design Patterns/Stack-Based Data.md",
+            "file": "C#/Design Patterns/Singleton.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/High Perf. Design Patterns/Stack-Based Data.md",
+            "file": "C#/Design Patterns/Singleton.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/High Perf. Design Patterns/Stack-Based Data.md",
+                "file": "C#/Design Patterns/Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a690daffe9d41897",
+  "active": "b3b829be35b67f84",
   "lastOpenFiles": [
-    "C#/High Perf. Design Patterns/Stack-Based Data.md",
-    "C#/High Perf. Design Patterns/Frugal Object.md",
-    "C#/High Perf. Design Patterns/Array Pooling.md",
+    "C#/Design Patterns/Singleton.md",
     "C#/Concepts/Reference Semantics.md",
-    "C#/Concepts/Heap vs Stack.md",
-    "C#/Concepts/Function as a Value.md",
-    "C#/Concepts/Unexpected Allocations.md",
-    "C#/Concepts/StringBuilder.md",
     "C#/Concepts/Span.md",
-    "C#/Concepts/Reference vs Value.md"
+    "C#/Attributes/Aggressive Inlining.md",
+    "Markdown Tricks.md",
+    "C#/Attatchments/Chimken.png",
+    "C#/Keywords/·Index.md",
+    "C#/Concepts/StringBuilder.md",
+    "C#/Handy/Untitled.md",
+    "C#/Handy/Logger.md"
   ]
 }

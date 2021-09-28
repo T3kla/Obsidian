@@ -21,7 +21,9 @@
     "Func",
     "Inlining",
     "codebase",
-    "inlined"
+    "inlined",
+    "enregistered",
+    "MonoBehaviour"
   ],
   "alwaysUpdateLinks": true,
   "useTab": false,
