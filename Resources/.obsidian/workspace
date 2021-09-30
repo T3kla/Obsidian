@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Design Patterns/Singleton.md",
+            "file": "C#/Handy/TJson.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Design Patterns/Singleton.md",
+            "file": "C#/Handy/TJson.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Design Patterns/Singleton.md",
+                "file": "C#/Handy/TJson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "b3b829be35b67f84",
   "lastOpenFiles": [
+    "C#/Handy/TJson.md",
+    "C#/Handy/TYaml.md",
+    "C#/Handy/Untitled.md",
+    "C#/Handy/Logger.md",
+    "Markdown Tricks.md",
     "C#/Design Patterns/Singleton.md",
     "C#/Concepts/Reference Semantics.md",
     "C#/Concepts/Span.md",
     "C#/Attributes/Aggressive Inlining.md",
-    "Markdown Tricks.md",
-    "C#/Attatchments/Chimken.png",
-    "C#/Keywords/·Index.md",
-    "C#/Concepts/StringBuilder.md",
-    "C#/Handy/Untitled.md",
-    "C#/Handy/Logger.md"
+    "C#/Attatchments/Chimken.png"
   ]
 }
