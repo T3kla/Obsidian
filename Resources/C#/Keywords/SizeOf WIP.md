@@ -1,8 +1,22 @@
-**
-
 ## SizeOf
 
-This function should display nicely the size of a given unmanaged Type. Including structs.
+Returns the size in bytes of a type.
 
-  
- unsafe void SizeOf<T>() where T : unmanaged { Log.Write($"Size of {typeof(T)} is {sizeof(T)}"); }**
+ For value types:
+ 
+```cs
+Console.Write($"Size of {typeof(T)} is {sizeof(T)}");
+```
+
+For random types:
+
+```cs
+Marshal.SizeOf(typeof(Myclass));
+
+// LayoutKind.Sequential needed for it to work
+
+using System.Runtime.InteropServices;
+
+[StructLayout(LayoutKind.Sequential)]
+class Myclass {}
+```

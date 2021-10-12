@@ -1,47 +1,45 @@
 {
   "main": {
-    "id": "71908dd7a958d9cd",
+    "id": "b23df914a2c87f96",
     "type": "split",
     "children": [
       {
-        "id": "b3b829be35b67f84",
+        "id": "053609d09708c8b7",
         "type": "leaf",
-        "dimension": 51.162790697674424,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Markdown Tricks.md",
+            "file": "Resources/C#/Keywords/SizeOf WIP.md",
             "mode": "source"
           }
         },
-        "group": "fa33b4b94c4bd08a"
+        "group": "3ac3a8b5e869704b"
       },
       {
-        "id": "a690daffe9d41897",
+        "id": "8b576d27d562d6ad",
         "type": "leaf",
-        "dimension": 48.837209302325576,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Markdown Tricks.md",
+            "file": "Resources/C#/Keywords/SizeOf WIP.md",
             "mode": "preview"
           }
         },
-        "group": "fa33b4b94c4bd08a"
+        "group": "3ac3a8b5e869704b"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "92cadb98febf9094",
+    "id": "4989de0391b11361",
     "type": "split",
     "children": [
       {
-        "id": "6ca9368458d4a051",
+        "id": "bec87e7648ccb13b",
         "type": "tabs",
         "children": [
           {
-            "id": "c195f3355c201ee9",
+            "id": "89ab7899dcf5568a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +47,7 @@
             }
           },
           {
-            "id": "b44cb8476423f019",
+            "id": "4d12496e92d6b810",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,30 +65,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5036334991455
+    "width": 300
   },
   "right": {
-    "id": "f8a2b5097d1f3071",
+    "id": "bce4c17ead603cff",
     "type": "split",
     "children": [
       {
-        "id": "d202ab78ef4a3559",
+        "id": "8eee5ae5bf7ae036",
         "type": "tabs",
         "children": [
           {
-            "id": "9b5cdd75d979b23f",
+            "id": "f8f4f56c8e4e8291",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Tricks.md",
+                "file": "Resources/C#/Keywords/SizeOf WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -101,17 +99,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3b829be35b67f84",
+  "active": "053609d09708c8b7",
   "lastOpenFiles": [
-    "Markdown Tricks.md",
-    "C#/References.md",
-    "C#/Handy/Logger.md",
-    "C#/Handy/TJson.md",
-    "C#/Handy/TYaml.md",
-    "C#/Data Oriented Programming WIP.md",
-    "C#/Handy/Untitled.md",
-    "C#/Design Patterns/Singleton.md",
-    "C#/Concepts/Reference Semantics.md",
-    "C#/Concepts/Span.md"
+    "Resources/C#/Keywords/SizeOf WIP.md",
+    "Resources/C#/Keywords/Unsafe.md",
+    "Resources/C#/Keywords/·Index.md",
+    "Resources/C#/Keywords/Unsafe WIP.md",
+    "Resources/C#/Keywords/Stackalloc WIP.md",
+    "Resources/C#/Keywords/Checked vs Unchecked WIP.md",
+    "Resources/C#/Keywords/Params WIP.md",
+    "Resources/C#/Keywords/Readonly.md"
   ]
 }
