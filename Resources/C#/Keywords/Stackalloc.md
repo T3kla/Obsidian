@@ -13,7 +13,7 @@ int* numbers = stackalloc int[] { 1, 2, 3, 4, 5, 6 };
 ```
 
 Choose between stack or heap depending on the memory needed.
-Usually less than 1 megaByte is ok.
+Usually less than 1 megaByte should be ok.
 
  ```cs
 int length = 420;

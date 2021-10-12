@@ -1,3 +1,9 @@
+Logger for unity that:
+
+-  Add the name of the calling class using reflection
+-  Add color to the name of the calling class
+-  Add color to the message depending on severity
+
 ```cs
 using System;
 using System.Collections.Generic;
@@ -110,36 +116,33 @@ public class Log
     private static string GetColor(in string owner)
         => Owners.TryGetValue(owner, out string color) ? color : OwnerDefaultColor;
 
-    private static string GetCaller()
-    {
-        string fullName;
-        Type declaringType;
-        int skipFrames = 2;
+	private static string GetCaller()
+	{
+		Type declaringType;
+		int skipFrames = 2;
 
-        do
-        {
-            MethodBase method = new StackFrame(skipFrames, false).GetMethod();
-            declaringType = method.DeclaringType;
+		do
+		{
+			MethodBase method = new StackFrame(skipFrames, false).GetMethod();
+			declaringType = method.DeclaringType;
 
-            if (declaringType == null)
-                return method.Name;
+			if (declaringType == null)
+				return method.Name;
 
-            skipFrames++;
-            fullName = declaringType.FullName;
-        }
-        while (declaringType.Module.Name.Equals("mscorlib.dll", StringComparison.OrdinalIgnoreCase));
+			skipFrames++;
+			Builder.Append(declaringType.FullName);
+		}
+		while (declaringType.Module.Name.Equals("mscorlib.dll", StringComparison.OrdinalIgnoreCase));
 
-        var start = fullName.IndexOf('.') + 1;
-        var end = fullName.IndexOf('+');
-        if (end == -1) end = fullName.Length;
-        var trim = fullName.AsSpan()[start..end];
+		var start = Builder.IndexOf('.') + 1;
+		Builder.Remove(0, start);
+		var end = Builder.IndexOf('+');
+		end = end == -1 ? Builder.Length : end;
+		Builder.Remove(end, Builder.Length - end);
+		var result = Builder.ToString();
+		Builder.Clear();
 
-        // No Span alternative
-        // var separators = new string[] { ".", "+<" };
-        // var split = fullName.Split(separators, StringSplitOptions.None);
-        // var name = split[split.Length == 1 ? 0 : 1];
-
-        return trim.ToString();
-    }
+		return result;
+	}
 }
 ```

@@ -25,3 +25,7 @@ sb.Replace('k', 'K');
 // Display the number of characters in the StringBuilder and its string.
 Console.WriteLine("{0} chars: {1}", sb.Length, sb.ToString());
 ```
+
+---
+# References
+- [StringBuilder Class (System.Text) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder?view=net-5.0)

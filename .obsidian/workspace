@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/Handy/Logger.md",
+            "file": "Resources/C#/References.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/Handy/Logger.md",
+            "file": "Resources/C#/References.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/C#/Handy/Logger.md",
+                "file": "Resources/C#/References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "053609d09708c8b7",
   "lastOpenFiles": [
-    "Resources/C#/Handy/Logger.md",
-    "Resources/C#/Handy/Untitled.md",
-    "Resources/C#/Keywords/SizeOf WIP.md",
+    "Resources/C#/References.md",
+    "Resources/C#/Design Patterns/·Index.md",
+    "Resources/C#/Untitled.md",
     "Resources/C#/Keywords/Unsafe.md",
-    "Resources/C#/Keywords/·Index.md",
-    "Resources/C#/Keywords/Unsafe WIP.md",
-    "Resources/C#/Keywords/Stackalloc WIP.md",
-    "Resources/C#/Keywords/Checked vs Unchecked WIP.md",
-    "Resources/C#/Keywords/Params WIP.md",
-    "Resources/C#/Keywords/Readonly.md"
+    "Resources/C#/Keywords/Stackalloc.md",
+    "Resources/C#/Keywords/SizeOf WIP.md",
+    "Resources/C#/Keywords/Readonly.md",
+    "Resources/C#/Keywords/Params.md",
+    "Resources/C#/Keywords/Fixed.md",
+    "Resources/C#/Concepts/Span.md"
   ]
 }

@@ -1,7 +1,7 @@
 # Readonly
 Readonly makes the variable assignable only inside the construction code block. Outside of it, the variable can not be reassigned.
 
-This doesn't mean that the variable is immutable tho. For example, a `public readonly List<t>` could continue to add and remove members regardless.
+This doesn't mean that the variable is immutable tho. For example, a `public readonly List<T>` could continue to add and remove members regardless.
 
 ```cs
     public class MyClass
