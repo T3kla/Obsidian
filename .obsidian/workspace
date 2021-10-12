@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/Keywords/SizeOf WIP.md",
+            "file": "Resources/C#/Handy/Logger.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/Keywords/SizeOf WIP.md",
+            "file": "Resources/C#/Handy/Logger.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/C#/Keywords/SizeOf WIP.md",
+                "file": "Resources/C#/Handy/Logger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "053609d09708c8b7",
   "lastOpenFiles": [
+    "Resources/C#/Handy/Logger.md",
+    "Resources/C#/Handy/Untitled.md",
     "Resources/C#/Keywords/SizeOf WIP.md",
     "Resources/C#/Keywords/Unsafe.md",
     "Resources/C#/Keywords/·Index.md",
