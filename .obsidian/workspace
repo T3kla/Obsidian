@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/References.md",
+            "file": "Resources/C#/Keywords/Event.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/References.md",
+            "file": "Resources/C#/Keywords/Event.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/C#/References.md",
+                "file": "Resources/C#/Keywords/Event.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "053609d09708c8b7",
   "lastOpenFiles": [
-    "Resources/C#/References.md",
-    "Resources/C#/Design Patterns/·Index.md",
-    "Resources/C#/Untitled.md",
-    "Resources/C#/Keywords/Unsafe.md",
+    "Resources/C#/Keywords/Event.md",
     "Resources/C#/Keywords/Stackalloc.md",
-    "Resources/C#/Keywords/SizeOf WIP.md",
-    "Resources/C#/Keywords/Readonly.md",
-    "Resources/C#/Keywords/Params.md",
+    "Resources/C#/Attributes/Aggressive Inlining.md",
+    "Resources/C#/Design Patterns/Frugal Object.md",
+    "Resources/C#/Design Patterns/Stack-Based Data.md",
+    "Resources/C#/Design Patterns/Singleton.md",
+    "Resources/C#/Design Patterns/Array Pooling.md",
     "Resources/C#/Keywords/Fixed.md",
-    "Resources/C#/Concepts/Span.md"
+    "Resources/C#/Keywords/Params.md",
+    "Resources/C#/Keywords/Untitled.md"
   ]
 }
