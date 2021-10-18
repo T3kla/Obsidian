@@ -12,6 +12,7 @@ struct int2
 };
 ```
 
+
 ## Constructor
 
 ## Struct Hash function
