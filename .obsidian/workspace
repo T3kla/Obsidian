@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/Keywords/Event.md",
+            "file": "Resources/C++/Containers/Container Table.md",
             "mode": "source"
           }
         },
-        "group": "3ac3a8b5e869704b"
+        "group": "1499ca63f7a18195"
       },
       {
-        "id": "8b576d27d562d6ad",
+        "id": "c819fe3ccb4320ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/C#/Keywords/Event.md",
+            "file": "Resources/C++/Containers/Container Table.md",
             "mode": "preview"
           }
         },
-        "group": "3ac3a8b5e869704b"
+        "group": "1499ca63f7a18195"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/C#/Keywords/Event.md",
+                "file": "Resources/C++/Containers/Container Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "053609d09708c8b7",
   "lastOpenFiles": [
-    "Resources/C#/Keywords/Event.md",
-    "Resources/C#/Keywords/Stackalloc.md",
-    "Resources/C#/Attributes/Aggressive Inlining.md",
-    "Resources/C#/Design Patterns/Frugal Object.md",
-    "Resources/C#/Design Patterns/Stack-Based Data.md",
-    "Resources/C#/Design Patterns/Singleton.md",
-    "Resources/C#/Design Patterns/Array Pooling.md",
-    "Resources/C#/Keywords/Fixed.md",
-    "Resources/C#/Keywords/Params.md",
-    "Resources/C#/Keywords/Untitled.md"
+    "Resources/C++/Containers/Container Table.md",
+    "Resources/C++/Containers/set.md",
+    "Resources/C++/Keywords/Const.md",
+    "Resources/C++/Console.md",
+    "Resources/C++/Class & Struct WIP.md",
+    "Markdown Tricks.md",
+    "Resources/Markdown Tricks.md",
+    "Resources/C++/Const.md",
+    "Resources/C++/Containers/Containers.md",
+    "Resources/C++/Containers/Set.md"
   ]
 }
