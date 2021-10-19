@@ -22,4 +22,3 @@
 |   unordered_set    | Associative | Collection of unique elements                           |
 |      multiset      | Associative | Sorted collection of not necessarily unique elements    |
 | unordered_multiset | Associative | Collection of not necessarily unique elements           |
-|         -          |      -      | -                                                       |
