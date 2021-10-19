@@ -1,10 +1,11 @@
 #include <iostream>
 
 // 8 vida, 8 balas, 4 compañeros, 8 empty, 1 berk, 1 shield, 1 infBullets, 1 god
-struct data
+class data
 {
 	int dataInt = 0;
 
+public:
 	const int shift_bullets = 16;
 	const int shift_infBullets = 1;
 
@@ -22,7 +23,7 @@ struct data
 		dataInt |= result;
 	}
 
-	bool is_infBullets() { return dataInt &sel_infBullets; }
+	bool is_infBullets() const { return dataInt & sel_infBullets; }
 
 	void activate_infBullets() { dataInt |= sel_infBullets; }
 };
@@ -35,10 +36,15 @@ int main()
 	player.activate_infBullets();
 	std::cout << "is_infBullets: " << player.is_infBullets() << std::endl;
 
+	std::cout << std::endl;
+
+	std::cout << "add_bullets: 10 " << std::endl;
 	player.add_bullets(10);
+	std::cout << "add_bullets: 20 " << std::endl;
 	player.add_bullets(20);
-	std::cout << "get_bullets: " << player.get_bullets() << std::endl;
+	std::cout << "    get_bullets: " << player.get_bullets() << std::endl;
+	std::cout << "add_bullets: -25 " << std::endl;
 	player.add_bullets(-25);
-	std::cout << "get_bullets: " << player.get_bullets() << std::endl;
+	std::cout << "    get_bullets: " << player.get_bullets() << std::endl;
 }
 
