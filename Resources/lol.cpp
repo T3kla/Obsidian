@@ -33,6 +33,7 @@ int main()
 	data player;
 
 	std::cout << "is_infBullets: " << player.is_infBullets() << std::endl;
+	std::cout << "    activate_infBullets:" << player.activate_infBullets() << std::endl;
 	player.activate_infBullets();
 	std::cout << "is_infBullets: " << player.is_infBullets() << std::endl;
 
