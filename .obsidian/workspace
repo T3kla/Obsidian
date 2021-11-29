@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Math/References.md",
+            "file": "Resources/C#/Keywords/Unsafe.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Math/References.md",
+            "file": "Resources/C#/Keywords/Unsafe.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Math/References.md",
+                "file": "Resources/C#/Keywords/Unsafe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "053609d09708c8b7",
   "lastOpenFiles": [
+    "Resources/C#/Keywords/Unsafe.md",
+    "Resources/C#/Keywords/Stackalloc.md",
+    "Resources/C#/Keywords/Readonly.md",
+    "Resources/C#/Keywords/Params.md",
+    "Resources/C#/Keywords/Event.md",
     "Resources/Math/References.md",
     "Markdown Tricks.md",
     "Resources/Math/Untitled.md",
     "Resources/C++/Containers/multimap.md",
-    "Resources/C#/Keywords/Params.md",
-    "Resources/C#/Keywords/Event.md",
-    "Resources/C++/Smart Allocators.md",
-    "Resources/C++/Console WIP.md",
-    "Resources/C++/Containers/Untitled.md",
-    "Resources/C++/Containers/set.md"
+    "Resources/C++/Smart Allocators.md"
   ]
 }
